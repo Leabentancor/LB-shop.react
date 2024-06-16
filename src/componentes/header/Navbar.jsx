@@ -9,10 +9,10 @@ export const Navbar = () => {
                     categorias.map((categoria) => {
                         return (
                             <li className="link" key={categoria.id}>
-                            <NavLink to={`/categoria/${categoria.id}`} activeclassname="active" className="imagen">
-                                {categoria.nombre}
-                            </NavLink>
-                        </li>
+                                <NavLink to={`/categoria/${categoria.id}`} activeclassname="active" className="imagen">
+                                    {categoria.nombre}
+                                </NavLink>
+                            </li>
                         )
                         
                     })

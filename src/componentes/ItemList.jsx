@@ -5,11 +5,9 @@ export const ItemList = ( {productos} ) => {
     return (
         <div className="productos-grilla">
             {
-                productos.lenght > 0 ?
-                productos.map(producto => {
+                productos.length > 0 ? productos.map(producto => {
                     return <Item key={producto.id} producto={producto} />
-                })
-                : "Cargando productos..."
+                }) : "Cargando productos..."
             }
         </div>
     )
