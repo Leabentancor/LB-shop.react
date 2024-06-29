@@ -26,7 +26,11 @@
     cursor: pointer;
 }
 .link:hover{
-    border-bottom: solid 1px #000;
+    border-bottom: solid 1px #5e8383;
+}
+a {
+    text-decoration: none !important;
+    color: #5e8383;
 }
 
 .logo{
@@ -48,6 +52,11 @@
 }
 .carrito:hover{
     cursor: pointer;
+}
+
+.contenedor-carrito{
+    display: block;
+    margin-left: 40px;
 }
 
 
@@ -117,6 +126,40 @@
     gap: 20px;
 }
 .ver-mas:hover{
+    text-decoration: underline;
+    border: 1.5px solid #749f9f;
+    background-color: #fff;
+    color: #749f9f;
+    padding: 3.5px;
+}
+
+.btn-cantidad{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.btn-cantidad button{
+    background-color: #5e8383;
+    display: flex;
+    cursor: pointer;
+    width: 1.5rem;
+    color: #fff;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    border: none;
+    border-radius: 15px;
+}
+
+.btn-agregar-al-carrito{
+    background-color: #5e8383;
+    padding: 5px;
+    border: none;
+    color: #ffffff;
+    cursor: pointer;
+    gap: 20px;
+}
+.btn-agregar-al-carrito:hover{
     text-decoration: underline;
     border: 1.5px solid #749f9f;
     background-color: #fff;

@@ -3,7 +3,8 @@
         "id": "1",
         "nombre": "Laguna Paron",
         "precio": 1500,
-        "img": "../img/lagunaparon.jpg",
+        "img": "../../public/img/lagunaparon.jpg",
+        "descripcion":"La imagen muestra la impresionante Laguna Parón, ubicada en los Andes peruanos. Sus aguas turquesas contrastan con las imponentes montañas nevadas que la rodean, creando un paisaje de ensueño. En primer plano, un bote colorido reposa en la orilla, añadiendo un toque pintoresco y acogedor. Este lugar es perfecto para los amantes de la naturaleza y la fotografía, ofreciendo una vista serena y espectacular.",
         "categoria":{
             "id": "imagen" ,
             "nombre": "Imagen"
@@ -13,7 +14,7 @@
         "id": "2",
         "nombre": "Desierto de Tatacoa",
         "precio": 2500,
-        "img": "../img/desiertodetatacoa.jpg.jpg",
+        "img": "../../public/img/desiertodetatacoa.jpg",
         "categoria":{
             "id": "imagen" ,
             "nombre": "Imagen"
@@ -23,7 +24,7 @@
         "id": "3",
         "nombre": "Lyon",
         "precio": 3000,
-        "img": "../img/lyon.jpg",
+        "img": "../../public/img/lyon.jpg",
         "categoria":{
             "id": "imagen" ,
             "nombre": "Imagen"
@@ -33,7 +34,7 @@
         "id": "4",
         "nombre": "Cabo Polonio",
         "precio": 1900,
-        "img": "../img/cabopolonio.jpg",
+        "img": "../../public/img/cabopolonio.jpg",
         "categoria":{
             "id": "imagen" ,
             "nombre": "Imagen"
@@ -43,7 +44,7 @@
         "id": "5",
         "nombre": "Los Alpes",
         "precio": 3400,
-        "img": "../img/losalpes.jpg",
+        "img": "../../public/img/losalpes.jpg",
         "categoria":{
             "id": "imagen" ,
             "nombre": "Imagen"
@@ -53,7 +54,7 @@
         "id": "6",
         "nombre": "Ica Perú",
         "precio": 2000,
-        "img": "../img/icaperu.jpg",
+        "img": "../../public/img/icaperu.jpg",
         "categoria":{
             "id": "imagen" ,
             "nombre": "Imagen"
@@ -63,7 +64,7 @@
         "id": "7",
         "nombre": "Cancún",
         "precio": 2000,
-        "img": "../img/cancun.jpg",
+        "img": "../../public/img/cancun.jpg",
         "categoria":{
             "id": "imagen" ,
             "nombre": "Imagen"
@@ -73,7 +74,7 @@
         "id": "8",
         "nombre": "Laguna 69",
         "precio": 2000,
-        "img": "../img/laguna69.jpg",
+        "img": "../../public/img/laguna69.jpg",
         "categoria":{
             "id": "imagen" ,
             "nombre": "Imagen"
@@ -83,7 +84,7 @@
         "id": "9",
         "nombre": "Marco 1",
         "precio": 2000,
-        "img": "../img/marco1.jpeg",
+        "img": "../../public/img/marco1.jpeg",
         "categoria":{
             "id":"moldura" ,
             "nombre":"Moldura"
@@ -93,7 +94,7 @@
         "id": "10",
         "nombre": "Marco 2",
         "precio": 2000,
-        "img": "../img/marco2.jpeg",
+        "img": "../../public/img/marco2.jpeg",
         "categoria":{
             "id":"moldura" ,
             "nombre":"Moldura"
@@ -103,7 +104,7 @@
         "id": "11",
         "nombre": "Marco 3",
         "precio": 2000,
-        "img": "../img/marco3.jpeg",
+        "img": "../../public/img/marco3.jpeg",
         "categoria":{
             "id":"moldura" ,
             "nombre":"Moldura"
@@ -113,7 +114,7 @@
         "id": "12",
         "nombre": "Marco 4",
         "precio": 2000,
-        "img": "../img/marco4.jpeg",
+        "img": "../../public/img/marco4.jpeg",
         "categoria":{
             "id":"moldura" ,
             "nombre":"Moldura"
@@ -123,7 +124,7 @@
         "id": "13",
         "nombre": "Marco 5",
         "precio": 2000,
-        "img": "../img/marco5.jpeg",
+        "img": "../../public/img/marco5.jpeg",
         "categoria":{
             "id":"moldura" ,
             "nombre":"Moldura"
@@ -133,7 +134,7 @@
         "id": "14",
         "nombre": "Marco 6",
         "precio": 2000,
-        "img": "../img/marco6.jpeg",
+        "img": "../../public/img/marco6.jpeg",
         "categoria":{
             "id":"moldura" ,
             "nombre":"Moldura"
